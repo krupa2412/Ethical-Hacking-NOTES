@@ -1,4 +1,4 @@
-1. Download Kali Linux
+# Download Kali Linux
 
 Kali Linux is a popular Linux distribution used for penetration testing and security auditing. Here's how to download it:
 
@@ -10,7 +10,7 @@ Kali Linux is a popular Linux distribution used for penetration testing and secu
    * **Live version**: Boot Kali without installing it.
 4. If you prefer a torrent file for faster downloads, you can also download it via torrent from the same page.
 
-2. Download VirtualBox
+# Download VirtualBox
 
 VirtualBox is a free and open-source virtualization tool that allows you to run operating systems like Kali Linux in a virtual environment.
 
@@ -18,7 +18,7 @@ VirtualBox is a free and open-source virtualization tool that allows you to run 
 2. Under "VirtualBox platform packages," select the version appropriate for your operating system (Windows, macOS, Linux, etc.).
 3. Download and run the installer.
 
-3. Download 7-Zip
+# Download 7-Zip
 
 7-Zip is a file compression tool that can be used to extract files (including ISO files for Kali Linux) and is often recommended due to its high compression ratio.
 
